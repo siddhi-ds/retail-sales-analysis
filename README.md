@@ -38,4 +38,5 @@ Conclusion
 This project helped me learn data cleaning, data analysis, grouping, and data visualization using Python.
 
 Author
-BSc Data Science Student
+BSc Data Science Student# retail-sales-analysis
+My first Data Science project using Python and Pandas
